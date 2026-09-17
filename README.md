@@ -32,7 +32,7 @@ The workspace contains five core artifacts and documentation files required for 
    *Tailored, single-page alignment briefs designed specifically for:*
    * **Executive Sponsor:** Focusing on market momentum, risk trade-offs, and Q4 ROI scaling.
    * **Compliance & Risk:** Detailing audit readiness, adverse selection mitigation, automated cutoff thresholds, and 100% upfront fee transparency.
-   * **Engineering:** Outlining the 6-week scope lockdown, strict TypeScript guidelines, `react-native-reanimated` state transitions, and `@gorhom/bottom-sheet` gesture handling.
+   * **Engineering:** Outlining the 6-week scope lockdown, strict TypeScript guidelines, state transitions, and gesture handling.
 
 6. **`AI_USAGE.md`**  
    *Transparent documentation of AI tooling utilized during the design process, detailing where AI initial suggestions required rigorous human calibration—specifically regarding regulatory fee transparency, avoiding front-end payment friction traps, and bridging structural feature gaps.*
